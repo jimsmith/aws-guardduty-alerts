@@ -1,6 +1,6 @@
 # aws-guardduty-alerts
 
-![Knowledge-Intermediate](https://img.shields.io/badge/Knowledge-Intermediat    e-yellow.svg)
+![Knowledge-Intermediate](https://img.shields.io/badge/Knowledge-Intermediate-yellow.svg)
 ![Cloud-AWS](https://img.shields.io/badge/Cloud-AWS-orange.svg)
 ![Category-Security](https://img.shields.io/badge/Category-Security-blue.svg    )
 
